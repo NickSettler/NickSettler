@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### Some stats for you 😉
+
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicksettler&count_private=true&show_icons=true&theme=tokyonight)|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nicksettler&theme=tokyonight)|
+|----|----|
+
 <!--
 **NickSettler/NickSettler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
