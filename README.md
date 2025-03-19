@@ -1,5 +1,5 @@
-<img align="right" src="https://github.com/NickSettler/NickSettler/blob/main/metrics.plugin.isocalendar.svg" width="45%" alt="Contribution calendar">
-<img align="left" src="https://github.com/NickSettler/NickSettler/blob/main/metrics.classic.svg" width="45%" alt="Introduction">
+<img align="left" src="https://github.com/NickSettler/NickSettler/blob/main/metrics.classic.svg" width="50%" alt="Introduction">
+<img align="right" src="https://github.com/NickSettler/NickSettler/blob/main/metrics.plugin.isocalendar.svg" width="50%" alt="Contribution calendar">
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
