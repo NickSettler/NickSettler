@@ -2,6 +2,9 @@
 <img align="right" src="https://github.com/NickSettler/NickSettler/blob/main/metrics.plugin.isocalendar.svg" width="50%" alt="Contribution calendar">
 
 <br>
+<br>
+<br>
+<br>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
