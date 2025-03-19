@@ -21,27 +21,9 @@ jobs:
           base: header, repositories
           plugin_lines: yes
       - uses: lowlighter/metrics@v3.34
-        name: LeetCode metrics
-        with:
-          filename: metrics.plugin.leetcode.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_leetcode: yes
-          plugin_leetcode_user: NickSettler
-          plugin_leetcode_sections: solved, skills, recent
-      - uses: lowlighter/metrics@v3.34
         name: Calendar metrics
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_isocalendar: yes
-      - uses: lowlighter/metrics@v3.34
-        name: Languages metrics
-        with:
-          filename: metrics.plugin.code.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_code: yes
-          plugin_code_languages: javascript, typescript, c++, cpp, c, java, python, swift, bash, shell
-          plugin_code_load: 400
