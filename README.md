@@ -4,7 +4,7 @@
     <img align="right" src="https://github.com/NickSettler/NickSettler/blob/main/metrics.plugin.isocalendar.svg" width="45%" alt="Contribution calendar">
   </div>
 
-  <br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br>
 
   <div>
     <h3 align="left">Connect with me</h3>
